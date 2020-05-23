@@ -14,7 +14,7 @@
     <form action="${pageContext.request.contextPath}/user/login" method="post">
         username: <input type="text" name="username"> <br>
         password: <input type="text" name="password"> <br>
-        <input type="submit" value="登录">
+        <input type="submit" value="登录呀">
     </form>
 </body>
 </html>
